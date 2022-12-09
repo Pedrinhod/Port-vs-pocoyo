@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["Pico", "Hard", [191, 141, 104]],
+		["Philly", "Hard", [191, 141, 104]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "city",
+
+	"storyName": "Pocoyo",
+	"weekBefore": "week3",
+	"weekName": "Pocoyo!!!",
+	"difficulties": "Pocoyo",
+	"hideFreeplay": false,
+	"startUnlocked": true,
+	"hideStoryMode": false
+}
